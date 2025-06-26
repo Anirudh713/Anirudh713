@@ -4,5 +4,5 @@ I'm a passionate developer focused on building efficient, scalable, and robust s
 
 ## 🔗 Connect with me
 - [GitHub](https://github.com/Anirudh713/)
-- [LinkedIn]([https://www.linkedin.com/in/YourProfile](https://www.linkedin.com/in/anirudh-kulkarni-710a76247/))
+- [LinkedIn](https://www.linkedin.com/in/anirudh-kulkarni-710a76247/)
 - 📧 Email: anirudhpavankulkarni@gmail.com
